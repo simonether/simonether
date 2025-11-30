@@ -1,53 +1,49 @@
-# Hey, I'm Semyon 👋
+# Hey, I'm Simon 👋
 
-**Senior Full-Stack Developer** with 5+ years of experience building modern web applications, high-converting landing pages, and Telegram bots.
-
-I turn ideas into pixel-perfect, performant products that actually work.
-
----
-
-### 🛠 Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Python, FastAPI, Node.js  
-**Database:** PostgreSQL, MongoDB, Redis  
-**Other:** Telegram Bot API, REST APIs, Docker, Vercel
-
----
-
-### 🚀 What I Build
-
-- **Landing Pages** — Fast, SEO-optimized, conversion-focused
-- **Web Applications** — Full-stack apps with modern architecture
-- **Telegram Bots** — Automation, notifications, business workflows
-- **API Integrations** — Payment systems, CRMs, analytics
-
----
-
-### 💡 My Approach
-
-```
-Clean code → Scalable architecture → Fast delivery → Happy clients
+```typescript
+const simon = {
+  role: "Full-Stack Developer & AI Engineer",
+  experience: "5+ years",
+  location: "Building cool stuff on the internet"
+};
 ```
 
-I focus on shipping quality products quickly. No bloated frameworks, no overengineering — just solutions that solve real problems.
+---
+
+### 🧠 what i work with
+
+```
+AI/ML        →  LLMs · RAG · Langchain · Agents · Vector DBs
+Frontend     →  React · Next.js · React Native · TypeScript · Vue
+Backend      →  Python · FastAPI · Django · Node.js · Supabase
+Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
+```
 
 ---
 
-### 📫 Let's Connect
+### ⚡ what i build
 
-- Telegram: [@s1mondev](https://t.me/s1mondev)
+**ai stuff** — rag pipelines, chatbots, agents that actually work  
+**web apps** — fast, scalable, pixel-perfect  
+**mobile** — react native cross-platform  
+**bots** — telegram automation for business  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonether&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🔥 current vibe
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonether&theme=dark&hide_border=true" alt="GitHub Streak" />
+deep diving into AI agents & exploring what's next  
+shipping products, not just code
+
+---
+
+### 📬 let's talk
+
+<p align="left">
+  <a href="https://t.me/s1mondev"><img src="https://img.shields.io/badge/Telegram-@s1mondev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:simonsudarushkin@gmail.com"><img src="https://img.shields.io/badge/Email-simonsudarushkin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-*Currently open to interesting projects and collaborations.*
+*open for collabs & interesting projects* ✌️
