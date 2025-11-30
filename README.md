@@ -10,7 +10,7 @@ const simon = {
 
 ---
 
-### 🧠 what i work with
+### 🧠 what I work with
 
 ```
 AI/ML        →  LLMs · RAG · Langchain · Agents · Vector DBs
@@ -21,12 +21,12 @@ Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
 
 ---
 
-### ⚡ what i build
+### ⚡ what I build
 
-**ai stuff** — rag pipelines, chatbots, agents that actually work  
-**web apps** — fast, scalable, pixel-perfect  
-**mobile** — react native cross-platform  
-**bots** — telegram automation for business  
+**ai stuff** - rag pipelines, chatbots, agents that actually work  
+**web apps** - fast, scalable, pixel-perfect  
+**mobile** - react native cross-platform  
+**bots** - telegram automation for business  
 
 ---
 
