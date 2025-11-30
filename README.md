@@ -8,7 +8,6 @@ const simon = {
 };
 ```
 
----
 
 ### 🧠 what I work with
 
@@ -19,7 +18,6 @@ Backend      →  Python · FastAPI · Django · Node.js · Supabase
 Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
 ```
 
----
 
 ### ⚡ what I build
 
@@ -28,7 +26,6 @@ Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
 **mobile** - react native cross-platform  
 **bots** - telegram automation for business  
 
----
 
 ### 🔥 current vibe
 
@@ -44,6 +41,5 @@ shipping products, not just code
   <a href="mailto:simonsudarushkin@gmail.com"><img src="https://img.shields.io/badge/Email-simonsudarushkin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
 *open for collabs & interesting projects* ✌️
