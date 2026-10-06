@@ -34,7 +34,6 @@ Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
 **my projects**  
 [skill-placebo](https://github.com/simonether/skill-placebo) - placebo-controlled benchmark of the most-starred coding agent skills  
 [kwork-mcp](https://github.com/simonether/kwork-mcp) - MCP server for the Kwork freelance marketplace (Claude Code, Codex, Cursor)  
-[ai-support-agent](https://github.com/simonether/ai-support-agent) - support agent with RAG citations that asks a human before risky actions  
 
 **merged upstream**  
 caddy - `not` matcher for TLS handshakes ([#8138](https://github.com/caddyserver/caddy/pull/8138)), Caddyfile matcher parsing fix ([#8137](https://github.com/caddyserver/caddy/pull/8137))  
