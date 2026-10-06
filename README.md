@@ -55,7 +55,7 @@ shipping skill-placebo and the next tool after it
 <p align="left">
   <a href="https://keelfast.com"><img src="https://img.shields.io/badge/Hire_me-keelfast.com-111111?style=for-the-badge&logoColor=white" /></a>
   <a href="https://t.me/s1mondev"><img src="https://img.shields.io/badge/Telegram-@s1mondev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:simonsudarushkin@gmail.com"><img src="https://img.shields.io/badge/Email-simonsudarushkin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:simon@keelfast.com"><img src="https://img.shields.io/badge/Email-simon%40keelfast.com-111111?style=for-the-badge" /></a>
 </p>
 
 
