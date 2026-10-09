@@ -38,6 +38,8 @@ Ship it      →  Docker · CI/CD · Vercel · AWS · PostgreSQL
 **merged upstream**  
 caddy - `not` matcher for TLS handshakes ([#8138](https://github.com/caddyserver/caddy/pull/8138)), Caddyfile matcher parsing fix ([#8137](https://github.com/caddyserver/caddy/pull/8137))  
 rust - `#[unsafe(no_mangle)]` suggestion for `no_std` entry points ([#163559](https://github.com/rust-lang/rust/pull/163559))  
+rust-analyzer - fix for a highlighting panic on `#[doc]` strings with escapes ([#23443](https://github.com/rust-lang/rust-analyzer/pull/23443))  
+llama.cpp - web UI applies `ui_settings` on first visit in router mode ([#29668](https://github.com/ggml-org/llama.cpp/pull/29668))  
 playwright - CLI skill docs fix ([#43008](https://github.com/microsoft/playwright/pull/43008))  
 anything-llm - DuckDuckGo search results ([#6544](https://github.com/Mintplex-Labs/anything-llm/pull/6544)), attachments in chat history ([#6591](https://github.com/Mintplex-Labs/anything-llm/pull/6591))  
 agent-framework - retired Claude model in a .NET sample ([#8879](https://github.com/microsoft/agent-framework/pull/8879))  
